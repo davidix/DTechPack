@@ -1,0 +1,61 @@
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\bin\Debug\DTechPack.exe
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\bin\Debug\DTechPack.pdb
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.Properties.Resources.resources
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.csproj.GenerateResource.Cache
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.exe
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.pdb
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.frmMain.resources
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.frmSys.resources
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppSec.resources
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.frmPass.resources
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.frmappearance.resources
+C:\Users\Plus\Documents\Visual Studio 2008\Projects\DTechPack\DTechPack\obj\Debug\DTechPack.frmASCI.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.exe
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.pdb
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\bin\Debug\DTechPack.exe
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\bin\Debug\DTechPack.pdb
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\ResolveAssemblyReference.cache
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppSec.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppearance.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmASCI.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmMain.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmSys.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmPass.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.Properties.Resources.resources
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.csproj.GenerateResource.Cache
+I:\my documents\CO Progect\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.frmFileAccess.resources
+I:\my documents\CO Project\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.exe
+I:\my documents\CO Project\Plus\C#\DTechPack\DTechPack\obj\Debug\DTechPack.pdb
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\bin\Debug\DTechPack.exe
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\bin\Debug\DTechPack.pdb
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\ResolveAssemblyReference.cache
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppSec.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppearance.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmASCI.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmFileAccess.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmMain.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmSys.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmPass.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.Properties.Resources.resources
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.csproj.GenerateResource.Cache
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.exe
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.pdb
+E:\SourceArchive\Programming\C#\C# plus\DTechPack\DTechPack\obj\Debug\DTechPack.frmNotePad.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.csprojAssemblyReference.cache
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppSec.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmAppearance.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmASCI.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmFileAccess.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmMain.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmSys.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmPass.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.frmNotePad.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.Properties.Resources.resources
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.csproj.GenerateResource.cache
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.exe
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\bin\Debug\DTechPack.exe
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\bin\Debug\DTechPack.pdb
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\obj\Debug\DTechPack.pdb
+C:\Users\David\Desktop\DTechPack\DTechPack\DTechPack\bin\Debug\DTechPack.exe.config
